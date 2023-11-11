@@ -31,9 +31,6 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
   <a href="https://www.instagram.com/_birkantekin/" alt="_birkantekin">
   <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-<a href="https://discordapp.com/users/776749637826117640" alt="#4063">
-  <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
-  </a>
 </p>  
 
 <h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/eee61d21-1298-4d42-adce-96fe2f88217b" width="25" height="25">  Tech Stack: </h3>
