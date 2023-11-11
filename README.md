@@ -23,7 +23,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 <h3 align="left"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/89d5b102-c31d-4587-b7c2-3fc2c62b36ca" width="25" height="25"> Socials:</h3> 
 <p align="left">
-  <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
+  <a href="mailto:tekinbirkan01@gmail.com" alt="Birkan">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/birkan-tekin-b866b9191/" alt="birkantekin">
